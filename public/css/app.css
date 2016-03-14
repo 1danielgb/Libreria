@@ -1,0 +1,58 @@
+
+/*
+	Selectores CSS3
+		Clases "."
+		id		"#"
+		etiquetas	"tag"
+*/
+
+#slider-libreria{
+	margin-top: 30px;
+	color: orange; 
+}
+
+#section2{
+	margin-top: 30px; 
+}
+
+.slider .indicators .indicator-item.active{
+	background-color: #e64a19;
+}
+
+p{
+	text-align: justify;
+}
+
+.btn-social{
+	font-size: 30px;
+	margin-left: 20px;
+	margin-right: auto;
+
+	
+}
+
+#form-acceder{
+	height: 120px;
+	width:120px; 
+	margin:10px;
+}
+
+#cont2{
+	margin-top: 30px;
+}
+
+#cont3{
+	margin-top: 30px;
+	width:250px;
+	text-align: justify;
+	margin-left: 550px; 
+	margin-right: 20px;
+}
+
+#accede1{
+	margin-top: 30px;
+	width:250px;
+	text-align: justify;
+	margin-left: 350px; 
+	margin-right: 20px;
+}
